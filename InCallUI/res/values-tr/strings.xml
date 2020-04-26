@@ -375,7 +375,7 @@
     <string name="notification_network_selection_title">Hizmet yok</string>
     <string name="notification_network_selection_text">Seçili ağ (%s) kullanılamıyor</string>
     <string name="notification_action_answer">Cevap</string>
-    <string name="notification_action_end_call">Kapat</string>
+    <string name="notification_action_end_call">Aramayı Sonlandır</string>
     <string name="notification_action_answer_video">Videolar</string>
     <string name="notification_action_answer_voice">Ses</string>
     <string name="notification_action_accept">Evet</string>
