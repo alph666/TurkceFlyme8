@@ -151,7 +151,7 @@
     <string name="failed_to_resize_image">Picture not resized.</string>
     <string name="favorite_common_from_prefix">Gönderen</string>
     <string name="favorite_common_me_send_prefix">Alıcı</string>
-    <string name="favorite_page_label">Yıldızlı mesajlar</string>
+    <string name="favorite_page_label">Favori mesajlar</string>
     <string name="file_no_exsit">Dosya silindi</string>
     <string name="file_not_exist">Dosya silindi</string>
     <string name="flyme_disk_limit_notify_description">Unable to download Flyme MMS, touch to open the document.</string>
@@ -234,7 +234,7 @@
     <string name="mc_downloading_prefix">Downloaded</string>
     <string name="mc_enhanceseekbar">Using slider control. Currently set to %1$s</string>
     <string name="mc_every_day">Every day</string>
-    <string name="mc_friday">FR</string>
+    <string name="mc_friday">CUM</string>
     <string name="mc_go_Refreshing">Release to refresh</string>
     <string name="mc_hour">sa</string>
     <string name="mc_is_Refreshing">Yenileniyor</string>
@@ -296,7 +296,7 @@
     <string name="mc_praised_message">Like</string>
     <string name="mc_pull_refresh">Pull down to refresh</string>
     <string name="mc_reject">Exit</string>
-    <string name="mc_saturday">SA</string>
+    <string name="mc_saturday">CMR</string>
     <string name="mc_search">Search</string>
     <string name="mc_search_button_text">Search</string>
     <string name="mc_search_icon">Search</string>
@@ -304,10 +304,10 @@
     <string name="mc_search_text">Search</string>
     <string name="mc_second">s</string>
     <string name="mc_sunday">PAZ</string>
-    <string name="mc_thursday">PE</string>
+    <string name="mc_thursday">PER</string>
     <string name="mc_time_picker_dialog_title">Schedule</string>
     <string name="mc_time_picker_leap">Ayı atla</string>
-    <string name="mc_tuesday">TU</string>
+    <string name="mc_tuesday">SAL</string>
     <string name="mc_updating_prefix">Güncelleniyor</string>
     <string name="mc_value_checked">Seçildi</string>
     <string name="mc_value_not_checked">Seçilmedi</string>
@@ -325,7 +325,7 @@
     <string name="message_details_title">Mesaj ayrıntıları</string>
     <string name="message_download_failed_title">MMS accessory download failed</string>
     <string name="message_failed_body">Tap to View</string>
-    <string name="message_favorite_label">Yıldız</string>
+    <string name="message_favorite_label">Favorilere ekle</string>
     <string name="message_favorite_success">Sık kullanılan olarak işaretlendi</string>
     <string name="message_has_expire_title">Mesajın süresi doldu</string>
     <string name="message_has_expired">Mesajın süresi doldu ve indirilemiyor</string>
@@ -658,7 +658,7 @@
     <string name="timer_date_time_min">d</string>
     <string name="timer_string_formatter">Will be sent in %1$s</string>
     <string name="title_coversation_contact_multi">Recipient</string>
-    <string name="title_coversation_contact_single">İletişim detayları</string>
+    <string name="title_coversation_contact_single">Kişi detayları</string>
     <string name="title_mz_card">魅友卡</string>
     <string name="title_phone_recharge">手机充值</string>
     <string name="to_address_label">Alıcı:</string>
