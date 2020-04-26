@@ -1004,7 +1004,7 @@ Oynatma Kalitesi"</string>
     <string name="confirm_password_tip">Parola Girin</string>
     <string name="connected_devices_dashboard_no_nfc_summary">Bluetooth, Cast</string>
     <string name="connected_devices_dashboard_summary">Bluetooth, Cast, NFC</string>
-    <string name="connected_devices_dashboard_title">Connected devices</string>
+    <string name="connected_devices_dashboard_title">Bağlı cihazlar</string>
     <string name="connected_via_carrier">%1$s üzerinden bağlı</string>
     <string name="connected_via_network_scorer">%1$s üzerinden otomatik olarak bağlı</string>
     <string name="connected_via_network_scorer_default">Ağ derecelendirme sağlayıcı aracılığıyla otomatik olarak bağlandı</string>
@@ -3911,7 +3911,7 @@ Not: Bu cihazın kilidini açmak için parmak izinizi kullanamazsınız. Daha fa
     <string name="show_non_rect_clip">Dikdörtgen olmayan kırpma işlemlerinde hata ayıkla</string>
     <string name="show_notification_channel_warnings">Bildirim kanalı uyarılarını göster</string>
     <string name="show_notification_channel_warnings_summary">Bir uygulama geçerli kanal olmadan bildirim yayınladığında ekranda uyarı gösterir</string>
-    <string name="show_notification_content">İçeriği göster</string>
+    <string name="show_notification_content">Bildirim içeriğini göster</string>
     <string name="show_notification_content_summary">Kilit ekranında bildirim içeriğini göster</string>
     <string name="show_notification_on_lockscreen">Bildirimleri göster</string>
     <string name="show_number_summary">Kaç bildirimin engellendiği hakkında bildirim al</string>
